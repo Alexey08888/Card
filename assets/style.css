@@ -1,0 +1,105 @@
+ 
+.bl1
+{   
+     
+display: inline-block;
+
+width: 600px;
+height: 220px;
+background-color: rgb(24, 162, 183);
+margin-left: 650px;
+margin-top: 50px;
+position: relative;
+border: 1px solid rgb(24, 162, 183);
+
+}
+
+.im1
+
+
+{
+    width: 230px;
+    margin-left: 830px;
+    margin-top: -80px;
+    border-radius: 50%;
+    border: 7px solid white;
+    position: relative;
+    
+}
+
+
+
+ 
+.bl3
+{   
+     
+display: inline-block;
+
+width: 600px;
+height: 100px;
+background-color: rgb(24, 162, 183);
+margin-left: 650px;
+margin-top: 280px;
+position: relative;
+border: 1px solid rgb(24, 162, 183);
+
+}
+
+.name
+
+{
+margin-left: 860px;
+margin-top: 10px;
+font-size: 30px;
+
+}
+
+
+.icon
+
+{
+
+    margin-left: 860px;
+    margin-top: -100px;
+    
+}
+
+
+.pp
+
+{
+
+    margin-left: 890px;
+    margin-top: -30px;
+    /* margin-top: -100px; */
+   font-size: 26px; 
+}
+
+.btn1
+
+{
+    width: 100px;
+    height: 40px;
+    background-color: #25a743;
+    border-radius: 5px;
+    margin-left: 800px;
+    border:1px green solid;
+    font-size: 20px;
+    color: white;
+}
+
+
+.btn2
+
+{
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    background-color:rgb(24, 162, 183);
+    border-radius: 5px;
+    margin-left: 15px;
+    
+    border:1px green solid;
+    font-size: 20px;
+    color: white;
+}
