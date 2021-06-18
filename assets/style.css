@@ -23,7 +23,7 @@
   display: inline-block;
 
   width: 600px;
-  height: 90px;
+  height: 60px;
   background-color: rgb(24, 162, 183);
   margin-left: 650px;
   margin-top: 30px;
@@ -86,18 +86,33 @@
   max-width: 450px;
 }
 
-.bird {
-  width: 50px;
-  margin-top: 8px;
-  margin-left: 300px;
-}
 
 .g
 
 {
  
     width: 30px;
-    margin-top: 8px;
-    margin-left: 230px;
+    margin-top: 16px;
+    margin-left: 250px;
+
+}
+
+.g1
+
+{
+ 
+    width: 30px;
+    margin-top: 16px;
+    margin-left: 5px;
+
+}
+
+.g2
+
+{
+ 
+    width: 30px;
+    margin-top: 16px;
+    margin-left: 5px;
 
 }
